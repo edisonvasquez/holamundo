@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"> 
+
+<h:head>
+
+<title>Solititudes TI</title>
+ 	<link rel="stylesheet"  href="/Tickets/src/webapp/css/main.css" />
+ 	<link rel="stylesheet"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+</h:head> 
+<body> 
+<div class="col-md-6 center-block">
+	<img src="http://www.techandsolve.com/web/images/logo.png" alt="Tech and Solve" />
+	<h1>Solicitudes Tech and Solve</h1>
+	<div>
+		<button type="button" class="btn btn-primary">WikiTech</button><button type="button" class="btn btn-success">Crear Solicitud</button>
+	</div>
+</div>
+</body> 
+</html>

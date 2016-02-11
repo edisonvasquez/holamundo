@@ -1,0 +1,28 @@
+
+img{
+	max-width:100%; 
+}
+
+.quitar-float{
+	float: none;
+}
+
+.espacio-arriba{
+	margin-top: 100px;
+}
+
+.titulo{
+	font-family: 'Pacifico', cursive;
+	font-size: 4em;
+	color: #1197CF;
+}
+
+.subtitulo{
+	font-family: 'Lato', sans-serif;
+	font-size: 2em;
+}
+
+.parrafo{
+	font-size: 1em;
+	color: #DE2311;
+}

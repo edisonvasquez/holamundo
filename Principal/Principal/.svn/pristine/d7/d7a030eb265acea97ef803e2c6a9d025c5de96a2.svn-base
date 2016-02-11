@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-02-09T15:41:33" hostname="Yosimar-Valega" time="5.806">
+  <properties/>
+  <testcase name="Given el usuario ingresa a index.xhtml" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.001"/>
+  <testcase name="When el usuario ingresa nombre &quot;Juan Valdez&quot;" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.0"/>
+  <testcase name="And se ingresa la ubicacion &quot;Tech TI &quot;" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.0"/>
+  <testcase name="And se ingresa el telefono &quot;3005458538&quot;" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.0"/>
+  <testcase name="And se ingresa la descripcion &quot;Cambio teclado Prueba&quot;" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.0"/>
+  <testcase name="And presiona el boton enviar correo" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.0"/>
+  <testcase name="Then se muestra mensaje de envio" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="0.0"/>
+  <testcase name="classMethod" classname="| &quot;Juan Valdez&quot; | &quot;Tech TI &quot; | &quot;3005458538&quot; | &quot;Cambio teclado Prueba&quot; |" time="10.875"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver (v2.9.248315) on port 30872
+]]></system-err>
+</testsuite>
