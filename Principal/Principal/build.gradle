@@ -10,7 +10,6 @@ repositories {
 
 dependencies {
 	compile project(path: ':Tickets', configuration: 'archives')
-	compile project(path: ':AtddTickets', configuration: 'archives')
     deploy project(path: ':Tickets', configuration: 'archives')
     deploy project(path: ':AtddTickets', configuration: 'archives')
     earlib group: 'log4j', name: 'log4j', version: '1.2.15', ext: 'jar'
